@@ -5,7 +5,7 @@ on:
    - cron: "0 */1 * * *"
   push:
      paths:
-      - '.github/**'
+      - '.github.com/vAHiD55555/XRay-Proxy-grabber-telegram/**'
 
 jobs:
   check-row-urls:
